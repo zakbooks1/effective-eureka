@@ -1,20 +1,20 @@
-# Coding AI 🤖
+# Coding AI Website 🤖
 
-A simple Python AI chatbot powered by OpenRouter that helps with coding, Roblox, web development, and robotics.
-
----
+A simple AI coding assistant that runs in the browser.
 
 ## Features
-- Chat-based AI
-- Coding help
-- Roblox Lua scripting
-- Web development assistance
-- Robotics guidance
+- No API key needed
+- Works on GitHub Pages
+- AI code generation
+- Chat-style interface
 
----
+## Run it
 
-## Setup
+Just open index.html in a browser.
 
-### 1. Install dependencies
-```bash
-pip install -r requirements.txt
+## Deploy
+
+Use GitHub Pages:
+- Push repo
+- Go to Settings → Pages
+- Select branch → main
